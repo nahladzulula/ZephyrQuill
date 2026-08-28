@@ -1,4 +1,3 @@
-<!-- fallback_ZephyrQuill_20260828201617_40592 -->
 
 # ZephyrQuill
 
